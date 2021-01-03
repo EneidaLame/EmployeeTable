@@ -1,0 +1,31 @@
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\bin\Debug\Bolton.Services.dll
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\bin\Debug\Bolton.Services.pdb
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\bin\Debug\Bolton.Database.dll
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\bin\Debug\Bolton.Entities.dll
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\bin\Debug\Bolton.Database.pdb
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\bin\Debug\Bolton.Entities.pdb
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\obj\Debug\Bolton.Services.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\obj\Debug\Bolton.Services.csproj.CopyComplete
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\obj\Debug\Bolton.Services.dll
+C:\Users\hecto\source\repos\Bolton\Bolton.Services\obj\Debug\Bolton.Services.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Services.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Services.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Database.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Entities.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Database.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Entities.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.csprojAssemblyReference.cache
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.csproj.CopyComplete
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Services.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Services.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Database.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Entities.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Database.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\bin\Debug\Bolton.Entities.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.csprojAssemblyReference.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.csproj.CoreCompileInputs.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.csproj.CopyComplete
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\Bolton\Bolton\Bolton.Services\obj\Debug\Bolton.Services.pdb
